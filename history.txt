@@ -1,0 +1,1000 @@
+  981  ls
+  982  rm npm
+  983  clear
+  984  which npm
+  985  clear
+  986  apt-cache policy node
+  987  apt-get install node
+  988  node -v
+  989  apt-get install nodejs
+  990  node -v
+  991  nodejs -v
+  992  clear
+  993  npm -v
+  994  clear
+  995  npm install npm@latest -g
+  996  clear
+  997  apt-cache policy npm
+  998  which npm
+  999  clear
+ 1000  apt-cache policy npm
+ 1001  clear
+ 1002  cd
+ 1003  apt-get install npm
+ 1004  clear
+ 1005  npm -v
+ 1006  nodejs -v
+ 1007  which nodejs
+ 1008  sudo ln -s /usr/bin/nodejs /usr/local/bin/node
+ 1009  sudo ln -s /usr/bin/npm /usr/local/bin/npm
+ 1010  clear
+ 1011  npm -v
+ 1012  sudo npm install -g npm
+ 1013  clear
+ 1014  npm install npm@latest -g
+ 1015  mv /usr/local/bin/npm /usr/local/lib/node_modules/npm
+ 1016  npm install npm@latest -g
+ 1017  clear
+ 1018  cp /usr/local/lib/node_modules/npm /usr/local/bin/npm
+ 1019  cp /usr/local/lib/node_modules/npm /usr/local/bin/
+ 1020  cp -r /usr/local/lib/node_modules/npm /home/oumy/
+ 1021  mv /usr/local/lib/node_modules/npm /usr/local/bin/npm
+ 1022  clear
+ 1023  npm install npm@latest -g
+ 1024  mv /usr/local/lib/node_modules/npm /usr/local/bin/npm
+ 1025  cd /usr/local/bin
+ 1026  ls
+ 1027  cd npm/
+ 1028  ls
+ 1029  clear
+ 1030  apt-get remove npm
+ 1031  which npm
+ 1032  clear
+ 1033  cd
+ 1034  which npm
+ 1035  chmod -r 777 npm
+ 1036  clear
+ 1037  ls
+ 1038  rmdir npm/
+ 1039  rm -R npm/
+ 1040  clear
+ 1041  ls
+ 1042  rm npm-debug.log 
+ 1043  clear
+ 1044  npm -v
+ 1045  cd /usr/local/bin/
+ 1046  ls
+ 1047  rm -r npm/
+ 1048  clear
+ 1049  cd
+ 1050  which npm
+ 1051  clear
+ 1052  node -v
+ 1053  nodejs -v
+ 1054  clear
+ 1055  sudo apt-get purge nodejs npm
+ 1056  clear
+ 1057  apt-cache policy node
+ 1058  apt-cache policy nodejs
+ 1059  apt-cache policy npm
+ 1060  clear
+ 1061  which npm
+ 1062  which nodejs
+ 1063  cd /usr/local/bin/
+ 1064  ls
+ 1065  cd
+ 1066  clear
+ 1067  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+ 1068  apt-get install nodejs
+ 1069  clear
+ 1070  nodejs -v
+ 1071  cd /var/www/html/angular2/
+ 1072  clear
+ 1073  npm install
+ 1074  cd
+ 1075  npm ins
+ 1076  npm -v
+ 1077  cd
+ 1078  exit
+ 1079  sudo apt-cache policy nodejs
+ 1080  sudo apt-get install nodejs
+ 1081  sudo -s
+ 1082  clear
+ 1083  cd /usr/local/bin/
+ 1084  ls
+ 1085  clear
+ 1086  apt-get install npm
+ 1087  cd
+ 1088  sudo apt-get install npm
+ 1089  nodejs -v
+ 1090  clear
+ 1091  curl -L https://npmjs.com/install.sh | sh
+ 1092  clear
+ 1093  sudo curl -L https://npmjs.com/install.sh | sh
+ 1094  clear
+ 1095  sudo -s
+ 1096  curl -L https://npmjs.com/install.sh | sh
+ 1097  npm -v
+ 1098  clear
+ 1099  cd /var/www/html/angular2/
+ 1100  npm install
+ 1101  clear
+ 1102  ls
+ 1103  npm start
+ 1104  clear
+ 1105  npm start
+ 1106  clear
+ 1107  cd /var/www/html/angular2/
+ 1108  npm start
+ 1109  clear
+ 1110  npm install
+ 1111  npm start
+ 1112  clear
+ 1113  npm install
+ 1114  clear
+ 1115  npm start
+ 1116  clear
+ 1117  npm config get prefix
+ 1118  cd
+ 1119  mkdir ~/.npm-global
+ 1120  mkdir ~/.profile
+ 1121  gedit ./prestaTIC
+ 1122  gedit ./profile
+ 1123  gedit ~/.profile
+ 1124  clear
+ 1125  exit
+ 1126  sudo -s
+ 1127  clear
+ 1128  npm install -g jshint
+ 1129  NPM_CONFIG_PREFIX=~/.npm-global
+ 1130  npm install -g jshint
+ 1131  clear
+ 1132  npm install -g
+ 1133  npm install -g jshint
+ 1134  clear
+ 1135  npm install jshint -g
+ 1136  clear
+ 1137  npm install jshint
+ 1138  npm install typescript
+ 1139  clear
+ 1140  cd /var/www/html/angular2/
+ 1141  npm install
+ 1142  clear
+ 1143  sudo npm install
+ 1144  npm start
+ 1145  clear
+ 1146  tsc -v
+ 1147  typescript -v
+ 1148  npm config get prefix
+ 1149  cd
+ 1150  sudo gedit ~/.profile
+ 1151  restart
+ 1152  sudo restart
+ 1153  exit
+ 1154  tsc -v
+ 1155  clear
+ 1156  cd /var/www/html/angular2/
+ 1157  npm install
+ 1158  clear
+ 1159  sudo npm install
+ 1160  clear
+ 1161  npm start
+ 1162  clear
+ 1163  sudo npm start
+ 1164  nodejs -v
+ 1165  npm -v
+ 1166  clear
+ 1167  sudo -s
+ 1168  npm install -g typescript
+ 1169  npm install typescript -g
+ 1170  npm install typescript
+ 1171  sudo npm install typescript
+ 1172  clear
+ 1173  echo $PATH
+ 1174  which tsc
+ 1175  ls -l /usr/
+ 1176  ls -l /usr/local/
+ 1177  ls -l /usr/local/lib/
+ 1178  ls -l /usr/local/lib/node_modules/
+ 1179  clear
+ 1180  npm list -g --depth=0
+ 1181  clear
+ 1182  echo $PATH
+ 1183  ls -l /home/oumy/.npm-global/
+ 1184  clear
+ 1185  npm install -g typescript@last
+ 1186  clear
+ 1187  cd
+ 1188  sudo apt-get purge npm
+ 1189  npm -v
+ 1190  sudo apt-get remove npm
+ 1191  clear
+ 1192  which npm
+ 1193  ls -l /usr/bin/npm
+ 1194  npm config set proxy null
+ 1195  npm config set https-proxy null
+ 1196  npm config set strict-ssl false
+ 1197  cmear
+ 1198  clear
+ 1199  npm install -g typescript
+ 1200  npm install typescript -g
+ 1201  clear
+ 1202  npm install -g typescript
+ 1203  clear
+ 1204  npm config get registry
+ 1205  npm config get http-proxy
+ 1206  npm config get https-proxy
+ 1207  npm config set registry=http://registry.npmjs.org/
+ 1208  clear
+ 1209  npm config get registry
+ 1210  clear
+ 1211  npm install -g typescript
+ 1212  npm install typescript -g
+ 1213  clear
+ 1214  npm config get https-proxy
+ 1215  npm config get registry
+ 1216  npm config get http-proxy
+ 1217  clear
+ 1218  npm config get prefix
+ 1219  npm -v
+ 1220  npm install -g typescript
+ 1221  clear
+ 1222  npm install -g typescript
+ 1223  clear
+ 1224  npm install typescript-g
+ 1225  npm install typescript -g
+ 1226  clear
+ 1227  npm install -g typescript
+ 1228  npm install typescript -g
+ 1229  clear
+ 1230  npm config get prefix
+ 1231  cd /home/oumy/.npm-global/
+ 1232  ls
+ 1233  cd
+ 1234  sudo gedit ~/.profile
+ 1235  clear
+ 1236  sudo rm -r ~/.npm-global/
+ 1237  clear
+ 1238  mkdir ~/npm-global
+ 1239  source ~/.profile
+ 1240  clear
+ 1241  npm config get prefix
+ 1242  clear
+ 1243  cd ~/.npm-global/
+ 1244  ls
+ 1245  sudo cd ../
+ 1246  cd ../
+ 1247  sudo rm -r /home/oumy/.npm-global/
+ 1248  clear
+ 1249  cd /home/oumy/npm-global/
+ 1250  clear
+ 1251  ls
+ 1252  souce /home/oumy/.profile
+ 1253  sudo source /home/oumy/.profile
+ 1254  sudo source ~/.profile
+ 1255  source ~/.profile
+ 1256  clear
+ 1257  npm config get prefix
+ 1258  cd /home/oumy/.npm-global/
+ 1259  cd ../
+ 1260  rm -r .npm-global/
+ 1261  cd /home/oumy/.npm-global/
+ 1262  sudo gedit ~/.profile
+ 1263  source ~/.profile
+ 1264  npm config get prefix
+ 1265  npm config set prefix ~/npm-global/
+ 1266  clear
+ 1267  source ~/.profile
+ 1268  NPM_CONFIG_PREFIX=~/npm-global
+ 1269  clear
+ 1270  npm config get prefix
+ 1271  clear
+ 1272  cd /var/www/html/angular2/
+ 1273  npm update
+ 1274  sudo npm update
+ 1275  sudo npm outdate
+ 1276  clear
+ 1277  cd
+ 1278  sudo npm uninstall npm -g
+ 1279  npm -v
+ 1280  sudo make uninstall 
+ 1281  sudo make uninstall npm
+ 1282  which npm
+ 1283  cd /usr/bin/npm
+ 1284  npm uninstall
+ 1285  npm remove
+ 1286  history
+ 1287  clear
+ 1288  npm config get prefic
+ 1289  npm config get prefix
+ 1290  rm -rf /home/oumy/npm-global/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+ 1291  clear
+ 1292  npm -v
+ 1293  clea
+ 1294  clear
+ 1295  cd /var/www/html/angular2/
+ 1296  sudo npm install
+ 1297  clear
+ 1298  npm start
+ 1299  cd /var/www/html/angular2/
+ 1300  npm install -g tsd@latest
+ 1301  sudo npm install -g tsd@latest
+ 1302  sudo npm install -g typescript@latest
+ 1303  npm install
+ 1304  clear
+ 1305  sudo npm install
+ 1306  sudo npm start
+ 1307  cd /var/www/html/angular2/
+ 1308  Uncaught TypeError: System.register is not a function
+ 1309  clear
+ 1310  npm
+ 1311  npm install -g ionic cordova
+ 1312  sudo npm install -g ionic cordova
+ 1313  clear
+ 1314  cd ../
+ 1315  cd ionic/
+ 1316  ionic start TestIonic
+ 1317  ionic
+ 1318  clear
+ 1319  sudo npm install -g ionic cordova
+ 1320  sudo ionic start TestIonic
+ 1321  ionic -v
+ 1322  ionic
+ 1323  sudo ln -s /home/oumy/npm-global/lib/node_modules/ionic/ /usr/bin/ionic
+ 1324  sudo ln -s /home/oumy/npm-global/lib/node_modules/cordova/ /usr/bin/cordova
+ 1325  ionic
+ 1326  npm config get prefix
+ 1327  cd /usr/local/
+ 1328  ls
+ 1329  cd bin/
+ 1330  ls
+ 1331  npm config set prefix /usr/local/
+ 1332  npm config get prefix
+ 1333  clear
+ 1334  cd /usr/local/
+ 1335  ls
+ 1336  cd lib/
+ 1337  ls
+ 1338  clear
+ 1339  cd 
+ 1340  sudo npm install -g ionic cordova
+ 1341  ionic
+ 1342  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+ 1343  cd /var/www/html/ionic/
+ 1344  clear
+ 1345  ionic start myApp tabs
+ 1346  ionic platform add android
+ 1347  cd myApp/
+ 1348  ionic platform add android
+ 1349  clear
+ 1350  cd platforms/
+ 1351  ls
+ 1352  cd ../
+ 1353  ionic serve
+ 1354  ionic run
+ 1355  ionic run android
+ 1356  cd /home/oumy/Android
+ 1357  ls
+ 1358  cd Sdk/
+ 1359  LS
+ 1360  cd ..
+ 1361  cd
+ 1362  export ANDROID_HOME=/home/oumy/Android/Sdk
+ 1363  export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+ 1364  cd /var/www/html/ionic/
+ 1365  cd myApp/
+ 1366  ionic serve
+ 1367  ionic run android
+ 1368  apt-cache policy kvm
+ 1369  android avd
+ 1370  ionic run android
+ 1371  clear
+ 1372  cd /opt/
+ 1373  mv /home/oumy/Téléchargements/android-studio-ide-145.3537739-linux.zip /opt/
+ 1374  sudo mv /home/oumy/Téléchargements/android-studio-ide-145.3537739-linux.zip /opt/
+ 1375  ls
+ 1376  unzip android-studio-ide-145.3537739-linux.zip 
+ 1377  sudo unzip android-studio-ide-145.3537739-linux.zip 
+ 1378  clear
+ 1379  ls
+ 1380  cd android-studio/
+ 1381  ls
+ 1382  cd bin/
+ 1383  ls
+ 1384  ./studio.sh 
+ 1385  clear
+ 1386  cd /opt/android-studio/
+ 1387  ls
+ 1388  cd bin/
+ 1389  ./studio.sh 
+ 1390  sudo -s
+ 1391  clear
+ 1392  npm install -g http-server
+ 1393  history 
+ 1394  cd /var/www/html/angular2/
+ 1395  npm install
+ 1396  sudo npm install
+ 1397  clear
+ 1398  sudo npm start
+ 1399  clear
+ 1400  cd ../test_angular/
+ 1401  ls
+ 1402  cd angular-registration/
+ 1403  clear
+ 1404  cd
+ 1405  cd /home/oumy/
+ 1406  cd workspaceJEE/
+ 1407  cd innovas-ws/
+ 1408  ls
+ 1409  cd WebContent/
+ 1410  ls
+ 1411  cd WEB-INF/
+ 1412  LS
+ 1413  ls
+ 1414  clear
+ 1415  ls
+ 1416  cd ../
+ 1417  http-server 
+ 1418  clear
+ 1419  echo $JAVA_HOME
+ 1420  whereis JAVA_HOME
+ 1421  echo $PATH
+ 1422  cd /etc/default/
+ 1423  ls
+ 1424  cd
+ 1425  sudo apt-get -y install skype
+ 1426  wget http://download.skype.com/linux/skype-ubuntu-precise_4.3.0.37-1_i386.deb ; sudo dpkg -i skype-ubuntu-precise_4.3.0.37-1_i386.deb ; sudo apt-get -fy install
+ 1427  skype
+ 1428  clear
+ 1429  cd /home/oumy/wildfly-10.1.0.Final/
+ 1430  ls
+ 1431  cd bin/
+ 1432  ls
+ 1433  ./standalone.sh 
+ 1434  clear
+ 1435  ./standalone.sh 
+ 1436  ts aux
+ 1437  TS aux
+ 1438  ./jboss-cli.sh --connect command=:shutdown
+ 1439  clear
+ 1440  ./jboss-cli.sh --connect command=:shutdown
+ 1441  clear
+ 1442  ./standalone.sh 
+ 1443  cd /var/www/html/test_angular/
+ 1444  ls
+ 1445  cd ../
+ 1446  cd test_angular/
+ 1447  http-server
+ 1448  clear
+ 1449  cd ../telemedecine/
+ 1450  ls -l
+ 1451  cd ../
+ 1452  chmod -R 777 telemedecine/
+ 1453  cd telemedecine/
+ 1454  ls -l
+ 1455  clear
+ 1456  http-server
+ 1457  cd /var/www/html/telemedecine/
+ 1458  http-server
+ 1459  cd angular-registration/
+ 1460  http-server
+ 1461  cd ../
+ 1462  http-server
+ 1463  clear
+ 1464  ls
+ 1465  cd
+ 1466  cd /var/www/html/telemedecine/
+ 1467  ls
+ 1468  cd angular-registration/
+ 1469  clear
+ 1470  http-server
+ 1471  clear
+ 1472  http-server
+ 1473  cd ../
+ 1474  cd test_angular/
+ 1475  ls
+ 1476  cd angular-registration/
+ 1477  http-server
+ 1478  clear
+ 1479  cd ../
+ 1480  cd telemedecine/
+ 1481  http-server
+ 1482  cd../
+ 1483  cd ../
+ 1484  cd test_angular/
+ 1485  ls
+ 1486  http-server
+ 1487  clear
+ 1488  cd ../
+ 1489  cd test_login/
+ 1490  ls
+ 1491  http-server
+ 1492  cd ../begin/
+ 1493  ls
+ 1494  clear
+ 1495  sudo 
+ 1496  sudo npm install -g yo grunt-cli bower
+ 1497  yo angular myApp
+ 1498  npm install generator-angular
+ 1499  yo angular myApp
+ 1500  npm install generator-karma:app
+ 1501  ls
+ 1502  clear
+ 1503  ls
+ 1504  cd app/
+ 1505  ls
+ 1506  cd ../
+ 1507  cd test_login/
+ 1508  ls
+ 1509  grunt server
+ 1510  cd /etc/default/
+ 1511  ls
+ 1512  locate tomcat
+ 1513  clear
+ 1514  cd /opt/apache-tomcat/
+ 1515  ls
+ 1516  cd bin/
+ 1517  ls
+ 1518  ./startup.sh 
+ 1519  sudo ./startup.sh
+ 1520  clear
+ 1521  cd 
+ 1522  sudo service tomcat restart
+ 1523  sudo service tomcat8 restart
+ 1524  sudo service tomcat9 restart
+ 1525  clear
+ 1526  cd /opt/
+ 1527  ls
+ 1528  cd apache-tomcat/
+ 1529  clear
+ 1530  cd /var/www/html/
+ 1531  cd test_login/
+ 1532  http-server
+ 1533  clear
+ 1534  http-server
+ 1535  clear
+ 1536  npm start
+ 1537  clear
+ 1538  cd ../angular2/
+ 1539  ls
+ 1540  cd 
+ 1541  cd ../
+ 1542  cd /var/www/html/prosper/
+ 1543  cd angular\ 2/
+ 1544  npm install
+ 1545  ls
+ 1546  cd 
+ 1547  cd /var/www/html/
+ 1548  angular-registration/
+ 1549  cd angular-registration/
+ 1550  lq
+ 1551  ls
+ 1552  clear
+ 1553  http-server
+ 1554  clear
+ 1555  cd ../prosper/
+ 1556  cd angular\ 2/
+ 1557  npm install
+ 1558  ng serve
+ 1559  cd ../
+ 1560  cd ../angular2
+ 1561  ls
+ 1562  npm install
+ 1563  sudo npm install
+ 1564  ng serve
+ 1565  sudo apt-get install ng-common 
+ 1566  sudo npm install
+ 1567  ng serve
+ 1568  clea
+ 1569  clear
+ 1570  sudo npm install -g angular-cli
+ 1571  cd /var/www/html/test_login/
+ 1572  http-server
+ 1573  clea
+ 1574  clear
+ 1575  cd /home/oumy/Documents/
+ 1576  ls
+ 1577  cd angular-registration-login-example-master/
+ 1578  http-server
+ 1579  clear
+ 1580  http-server 
+ 1581  clear
+ 1582  http-server 
+ 1583  clear
+ 1584  http-server stop
+ 1585  clear
+ 1586  http-server
+ 1587  clear
+ 1588  http-server restart
+ 1589  cd ../
+ 1590  http-server angular-registration-login-example-master -c-1
+ 1591  clear
+ 1592  cd angular-registration-login-example-master/
+ 1593  http-server -c-1
+ 1594  clear
+ 1595  http-server -c-1
+ 1596  clear
+ 1597  http-server -h
+ 1598  http-server -c-1
+ 1599  clear
+ 1600  npm -g angular-cli
+ 1601  sudo npm -g angular-cli
+ 1602  cd /var/www/html/
+ 1603  history 
+ 1604  cd angular2/
+ 1605  cd ../
+ 1606  cd test_login/
+ 1607  npm install -g angular-cli
+ 1608  sudo -s
+ 1609  npm install -g angular-cli
+ 1610  cd /home/oumy/
+ 1611  clear
+ 1612  cd angular2-registration-login-example-master
+ 1613  ls
+ 1614  npm install
+ 1615  npm start
+ 1616  clear
+ 1617  cd /var/www/html/telemedecine/
+ 1618  mkdir angular2
+ 1619  cd angular2/
+ 1620  ng init
+ 1621  ls
+ 1622  ng serve
+ 1623  clear
+ 1624  cd ../
+ 1625  cd telemedecine/
+ 1626  chmod -R 777  angular2/
+ 1627  clearr
+ 1628  ls
+ 1629  cp -R angular2/ /home/oumy/Documents/
+ 1630  cd 
+ 1631  cd /home/oumy/Documents/
+ 1632  cd angular2/
+ 1633  ng serve
+ 1634  ng serve --port 4000
+ 1635  clear
+ 1636  npm install ngx-dropdown --save
+ 1637  npm install
+ 1638  clear
+ 1639  ng serve
+ 1640  clear
+ 1641  ng serve
+ 1642  clear
+ 1643  ng serve
+ 1644  cd /home/oumy/Documents/angular2/
+ 1645  ls
+ 1646  ng serve
+ 1647  clear
+ 1648  ng serve
+ 1649  cd /home/oumy/Documents/
+ 1650  ls
+ 1651  cd angular2/
+ 1652  ng serve
+ 1653  cd /home/oumy/Documents/
+ 1654  cd angular2/
+ 1655  ng serve
+ 1656  clear
+ 1657  ng serve
+ 1658  sudo -s
+ 1659  cd /home/oumy/Documents/
+ 1660  npm install --save angular-calendar
+ 1661  ls
+ 1662  cd angular-calendar-master/
+ 1663  npm install --save angular-calendar
+ 1664  clear
+ 1665  ng serve
+ 1666  npm install
+ 1667  npm start
+ 1668  clear
+ 1669  cd ../angular2/
+ 1670  ng serve
+ 1671  npm install --save angular-calendar
+ 1672  clear
+ 1673  ng serve
+ 1674  clear
+ 1675  npm install date-fns @types/date-fns
+ 1676  ng serve
+ 1677  npm install '@angular/animations'
+ 1678  ng serve
+ 1679  npm install
+ 1680  ng serve
+ 1681  clear
+ 1682  ng serve
+ 1683  sudo -s
+ 1684  clear
+ 1685  cd /home/oumy/Documents/
+ 1686  cd angular2/
+ 1687  ng serve
+ 1688  clear
+ 1689  ng serve
+ 1690  clear
+ 1691  cd ../angular-calendar-master/
+ 1692  npm start
+ 1693  cd ../angular2/
+ 1694  clear
+ 1695  npm install --save @ng-bootstrap/ng-bootstrap
+ 1696  ng serve
+ 1697  cd ../
+ 1698  chmod -R 777 angular2/
+ 1699  cd angular
+ 1700  cd angular2/
+ 1701  ng serve
+ 1702  cd ../angular-calendar-master/
+ 1703  npm start
+ 1704  cd ../angular2/
+ 1705  ng serve
+ 1706  npm install
+ 1707  ng serve
+ 1708  clear
+ 1709  ng serve
+ 1710  sudo -s
+ 1711  cd /home/oumy/Documents/
+ 1712  cd angular2/
+ 1713  ng serve
+ 1714  clear
+ 1715  ng serve
+ 1716  npm install rrule
+ 1717  npm install
+ 1718  ng serve
+ 1719  sudo -s
+ 1720  cd /home/oumy/Documents/
+ 1721  cd angular2/
+ 1722  ng serve
+ 1723  clear
+ 1724  ng serve
+ 1725  clear
+ 1726  cd /home/oumy/Documents/angular2/
+ 1727  sudo -s
+ 1728  ng serve
+ 1729  sudo -s 
+ 1730  cd /home/oumy/Documents/angular2/
+ 1731  npm install
+ 1732  ng serve
+ 1733  angular-cli -v
+ 1734  nmp -v angular-cli
+ 1735  nmp angular-cli  --version
+ 1736  ng serve
+ 1737  npm-check-updates
+ 1738  sudo npm install -g npm-check-updates
+ 1739  ng serve
+ 1740  cd ../../
+ 1741  cd Bureau/
+ 1742  ls
+ 1743  cd angular2/
+ 1744  ng serve
+ 1745  cd ../../
+ 1746  cd Documents/
+ 1747  cd angular2/
+ 1748  ng serve
+ 1749  clear
+ 1750  ng serve
+ 1751  cd /home/oumy/Bureau/
+ 1752  ls
+ 1753  cd angular2/
+ 1754  ng serve
+ 1755  cd ../../Documents/
+ 1756  cd angular2/
+ 1757  ng serve
+ 1758  cd ../../
+ 1759  cd Bureau/angular2/
+ 1760  ng serve
+ 1761  cd ../angular-cli/
+ 1762  ng serve
+ 1763  npm install angular-cli
+ 1764  sudi -s npm install angular-cli
+ 1765  sudo -s npm install angular-cli
+ 1766  sudo -s npm install angular-cli@lastest
+ 1767  sudo -s npm install angular-cli.json 
+ 1768  clear
+ 1769  tsc -v
+ 1770  cd /home/oumy/Bureau/
+ 1771  cd angular2/
+ 1772  ng serve
+ 1773  clear
+ 1774  cd ../../
+ 1775  cd Bureau/
+ 1776  cd ../
+ 1777  cd Documents/
+ 1778  cd old-calendar-master/
+ 1779  npm start
+ 1780  ng init
+ 1781  sudo -s ng init
+ 1782  ng serve
+ 1783  clear
+ 1784  cd ../angular2-calendar-master/
+ 1785  sudo -s
+ 1786  ng init
+ 1787  clea
+ 1788  clear
+ 1789  ng serve
+ 1790  clear
+ 1791  ng init
+ 1792  ng serve
+ 1793  npm install lodash --save
+ 1794  npm cache clean
+ 1795  npm install
+ 1796  clear
+ 1797  ng serve
+ 1798  npm install lodash --save
+ 1799  npm install --save lodash
+ 1800  npm install --sav
+ 1801  ng serve
+ 1802  npm install --save lodash
+ 1803  clear
+ 1804  ng serve
+ 1805  clear
+ 1806  cd ../
+ 1807  ls
+ 1808  cd angular2-calendar-master/
+ 1809  npm start
+ 1810  ng start
+ 1811  clear
+ 1812  ng init
+ 1813  clear
+ 1814  ng init
+ 1815  cd ../
+ 1816  cd angular2_old2/
+ 1817  cd angular2-calendar-master/
+ 1818  clear
+ 1819  npm install
+ 1820  npm start
+ 1821  npm run
+ 1822  npm build
+ 1823  npm start
+ 1824  cd ../
+ 1825  cd angular2_old
+ 1826  clear
+ 1827  npm install ng2-datepicker --save
+ 1828  ng serve
+ 1829  sudo -s 
+ 1830  cd /home/oumy/Documents/
+ 1831  ls
+ 1832  cd old-calendar-master/
+ 1833  ng serve
+ 1834  clear
+ 1835  ng serve
+ 1836  clear
+ 1837  ng serve
+ 1838  clear
+ 1839  ng serve
+ 1840  clear
+ 1841  cd ../../
+ 1842  cd Bureau/
+ 1843  ls
+ 1844  cd angular2/
+ 1845  ng serve
+ 1846  clear
+ 1847  clea
+ 1848  clear
+ 1849  cd ../../
+ 1850  cd Documents/
+ 1851  ls
+ 1852  cd old-calendar-master/
+ 1853  ng serve
+ 1854  cd demos/
+ 1855  ng serve
+ 1856  cd ../
+ 1857  npm install --save angular-calendar
+ 1858  cd ../
+ 1859  ls
+ 1860  cd angular2_old/
+ 1861  ng serve
+ 1862  cd
+ 1863  cd /home/oumy/Bureau/
+ 1864  ls
+ 1865  cd angular2/
+ 1866  ng serve
+ 1867  cd ../
+ 1868  chmod -R 777 angular2/
+ 1869  cp angular2/ /home/oumy/Téléchargements/
+ 1870  cp -R angular2/ /home/oumy/Téléchargements/
+ 1871  cd /home/oumy/Téléchargements/
+ 1872  chmod -R 777 angular2/
+ 1873  cp -R angular2/ /home/oumy/Documents/
+ 1874  cp -R angular2_old/ /home/oumy/Documents/
+ 1875  cd ../Documents/
+ 1876  ls
+ 1877  cd angular2_old/
+ 1878  ng serve
+ 1879  npm install --save angular-calendar
+ 1880  npm install --save animations@lastest
+ 1881  clear
+ 1882  cd ../
+ 1883  chmod -R 777 angular2_old/
+ 1884  cd angular2_old/
+ 1885  npm install @angular/animations
+ 1886  npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router,animations}@latest typescript@latest --save 
+ 1887  cd ../../
+ 1888  cd Bureau/
+ 1889  cd angular2/
+ 1890  ng serve
+ 1891  cd ../../Documents/
+ 1892  cd angular2_old/
+ 1893  ng serve
+ 1894  npm install --save @ng-bootstrap/ng-bootstrap@lastest
+ 1895  npm install --save @ng-bootstrap/ng-bootstrap
+ 1896  npm install @ng-bootstrap/ng-bootstrap@latest typescript@latest --save 
+ 1897  clea
+ 1898  clear
+ 1899  ng serve
+ 1900  cd ../
+ 1901  ls
+ 1902  cd angular2-calendar-master/
+ 1903  ng init
+ 1904  npm install @ngrx/store@latest typescript@latest --save 
+ 1905  npm install @angular-redux/storetore@latest typescript@latest --save 
+ 1906  npm install @angular-redux/store@latest typescript@latest --save 
+ 1907  ng serve
+ 1908  npm install @ngrx/core@latest typescript@latest --save 
+ 1909  ng serve
+ 1910  npm install moment@latest typescript@latest --save 
+ 1911  clear
+ 1912  ng serve
+ 1913  cd ../
+ 1914  chmod -R 777 angular2-calendar-master
+ 1915  cd angular2-calendar-master/
+ 1916  ng serve
+ 1917  clear
+ 1918  ng serve
+ 1919  clea
+ 1920  clear
+ 1921  npm install @angular/router-deprecated
+ 1922  ng serve
+ 1923  clear
+ 1924  cd ../angular2_old/
+ 1925  ng serve
+ 1926  clear
+ 1927  cd /home/oumy/Documents/angular2_old
+ 1928  sudo -s
+ 1929  ng serve
+ 1930  cd ../
+ 1931  chmod -R 777 angular2_old
+ 1932  ng serve
+ 1933  cd angular2_old
+ 1934  ng serve
+ 1935  clear
+ 1936  ng serve
+ 1937  cd /home/oumy/Documents/angular2_old
+ 1938  sudo -s
+ 1939  cd
+ 1940  cd Documents/
+ 1941  git clone https://github.com/oumyfall123/SystemeReparti.git
+ 1942  ls
+ 1943  cd SystemeReparti/
+ 1944  ls
+ 1945  echo "tester" >test.txt
+ 1946  git status
+ 1947  git add .
+ 1948  git status
+ 1949  git commit -m "premier test"
+ 1950  git status
+ 1951  git push -u origin master 
+ 1952  git commit -m "premier test"
+ 1953  git config --global user.email "falloumy2012@gmail.com"
+ 1954  git config --global user.name "oumyfall123"
+ 1955  git commit -m "premier test"
+ 1956  ls
+ 1957  git checkout -b branch1
+ 1958  git status
+ 1959  echo "tester de banche" >test.txt
+ 1960  git status
+ 1961  cat test.txt 
+ 1962  git checkout master 
+ 1963  cat test.txt 
+ 1964  git log 
+ 1965  git merge branch1 
+ 1966  git add .
+ 1967  git status 
+ 1968  git commit -m "tester"
+ 1969  git status 
+ 1970  git push -m origin master 
+ 1971  git push -u origin master 
+ 1972  ls
+ 1973  ls -al
+ 1974  cat .git/config 
+ 1975  git push 
+ 1976  git push -u origin master 
+ 1977  ls
+ 1978  git push -u origin master 
+ 1979  history
+ 1980  history >> history.txt
